@@ -1,0 +1,5 @@
+{
+  "name": "AnimForge: AI Sprite Generator",
+  "description": "Generate full animation sprite sheets from a single character image using AI.",
+  "requestFramePermissions": []
+}
